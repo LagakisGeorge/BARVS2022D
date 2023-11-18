@@ -1,0 +1,47 @@
+C:\Documents and Settings\Yenn\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Yenn\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Yenn\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Yenn\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yenn\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Yenn\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Yenn\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Yenn\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Yenn\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Yenn\My Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Yenn\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Yenn\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Yenn\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Yenn\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Yenn\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Yenn\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Yenn\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yenn\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Yenn\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Yenn\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Yenn\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+C:\Documents and Settings\jgiminsil\Desktop\Junnajir Giminsil Files\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.exe

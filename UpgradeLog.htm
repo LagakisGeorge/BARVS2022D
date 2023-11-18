@@ -1,0 +1,352 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+ <html xmlns:msxsl="urn:schemas-microsoft-com:xslt"><head><meta content="en-us" http-equiv="Content-Language" /><meta content="text/html; charset=utf-16" http-equiv="Content-Type" /><title _locID="ConversionReport0">
+          Migration Report
+        </title><style> 
+                    /* Body style, for the entire document */
+                    body
+                    {
+                        background: #F3F3F4;
+                        color: #1E1E1F;
+                        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+                        padding: 0;
+                        margin: 0;
+                    }
+
+                    /* Header1 style, used for the main title */
+                    h1
+                    {
+                        padding: 10px 0px 10px 10px;
+                        font-size: 21pt;
+                        background-color: #E2E2E2;
+                        border-bottom: 1px #C1C1C2 solid; 
+                        color: #201F20;
+                        margin: 0;
+                        font-weight: normal;
+                    }
+
+                    /* Header2 style, used for "Overview" and other sections */
+                    h2
+                    {
+                        font-size: 18pt;
+                        font-weight: normal;
+                        padding: 15px 0 5px 0;
+                        margin: 0;
+                    }
+
+                    /* Header3 style, used for sub-sections, such as project name */
+                    h3
+                    {
+                        font-weight: normal;
+                        font-size: 15pt;
+                        margin: 0;
+                        padding: 15px 0 5px 0;
+                        background-color: transparent;
+                    }
+
+                    /* Color all hyperlinks one color */
+                    a
+                    {
+                        color: #1382CE;
+                    }
+
+                    /* Table styles */ 
+                    table
+                    {
+                        border-spacing: 0 0;
+                        border-collapse: collapse;
+                        font-size: 10pt;
+                    }
+
+                    table th
+                    {
+                        background: #E7E7E8;
+                        text-align: left;
+                        text-decoration: none;
+                        font-weight: normal;
+                        padding: 3px 6px 3px 6px;
+                    }
+
+                    table td
+                    {
+                        vertical-align: top;
+                        padding: 3px 6px 5px 5px;
+                        margin: 0px;
+                        border: 1px solid #E7E7E8;
+                        background: #F7F7F8;
+                    }
+
+                    /* Local link is a style for hyperlinks that link to file:/// content, there are lots so color them as 'normal' text until the user mouse overs */
+                    .localLink
+                    {
+                        color: #1E1E1F;
+                        background: #EEEEED;
+                        text-decoration: none;
+                    }
+
+                    .localLink:hover
+                    {
+                        color: #1382CE;
+                        background: #FFFF99;
+                        text-decoration: none;
+                    }
+
+                    /* Center text, used in the over views cells that contain message level counts */ 
+                    .textCentered
+                    {
+                        text-align: center;
+                    }
+
+                    /* The message cells in message tables should take up all avaliable space */
+                    .messageCell
+                    {
+                        width: 100%;
+                    }
+
+                    /* Padding around the content after the h1 */ 
+                    #content 
+                    {
+	                    padding: 0px 12px 12px 12px; 
+                    }
+
+                    /* The overview table expands to width, with a max width of 97% */ 
+                    #overview table
+                    {
+                        width: auto;
+                        max-width: 75%; 
+                    }
+
+                    /* The messages tables are always 97% width */
+                    #messages table
+                    {
+                        width: 97%;
+                    }
+
+                    /* All Icons */
+                    .IconSuccessEncoded, .IconInfoEncoded, .IconWarningEncoded, .IconErrorEncoded
+                    {
+                        min-width:18px;
+                        min-height:18px; 
+                        background-repeat:no-repeat;
+                        background-position:center;
+                    }
+
+                    /* Success icon encoded */
+                    .IconSuccessEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconSuccess#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABcElEQVR4Xq2TsUsCURzHv15g8ZJcBWlyiYYgCIWcb9DFRRwMW5TA2c0/QEFwFkxxUQdxVlBwCYWOi6IhWgQhBLHJUCkhLr/BW8S7gvrAg+N+v8/v+x68Z8MGy+XSCyABQAXgBgHGALoASkIIDWSLeLBetdHryMjd5IxQPWT4rn1c/P7+xxp72Cs9m5SZ0Bq2vPnbPFafK2zDvmNHypdC0BPkLlQhxJsCAhQoZwdZU5mwxh720qGo8MzTxTTKZDPCx2HoVzp6lz0Q9tKhyx0kGs8Ny+TkWRKk8lCROwEduhyg9l/6lunOPSfmH3NUH6uQ0KHLAe7JYvJjevm+DAMGJHToKtigE+vwvIidxLamb8IBY9e+C5LiXREkfho3TSd06HJA13/oh6T51MTsfQbHrsMynQ5dDihFjiK8JJAU9AKIWTp76dCVN7HWHrajmUEGvyF9nkbAE6gLIS7kTUyuf2gscLoJrElZo/Mvj+nPz/kLTmfnEwP3tB0AAAAASUVORK5CYII=);
+                    }
+
+                    /* Information icon encoded */
+                    .IconInfoEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconInformation#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHElEQVR4Xs2TsUoDQRRF7wwoziokjZUKadInhdhukR9YP8DMX1hYW+QvdsXa/QHBbcXC7W0CamWTQnclFutceIQJwwaWNLlwm5k5d94M76mmaeCrrmsLYOocY12FcxZFUeozCqKqqgYA8uevv1H6VuPxcwlfk5N92KHBxfFeCSAxxswlYAW/Xr989x/mv9gkhtyMDhcAxgzRsp7flj8B/HF1RsMXq+NZMkopaHe7lbKxQUEIGbKsYNoGn969060hZBkQex/W8oRQwsQaW2o3Ago2SVcJUzAgY3N0lTCZZm+zPS8HB51gMmS1DEYyOz9acKO1D8JWTlafKIMxdhvlfdyT94Vv5h7P8Ky7nQzACmhvKq3zk3PjW9asz9D/1oigecsioooAAAAASUVORK5CYII=);
+                    }
+
+                    /* Warning icon encoded */
+                    .IconWarningEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconWarning#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAx0lEQVR4XpWSMQ7CMAxFf4xAyBMLCxMrO8dhaBcuwdCJS3RJBw7SA/QGTCxdWJgiQYWKXJWKIXHIlyw5lqr34tQgEOdcBsCOx5yZK3hCCKdYXneQkh4pEfqzLfu+wVDSyyzFoJjfz9NB+pAF+eizx2Vruts0k15mPgvS6GYvpVtQhB61IB/dk6AF6fS4Ben0uIX5odtFe8Q/eW1KvFeH4e8khT6+gm5B+t3juyDt7n0jpe+CANTd+oTUjN/U3yVaABnSUjFz/gFq44JaVSCXeQAAAABJRU5ErkJggg==);
+                    }
+
+                    /* Error icon encoded */
+                    .IconErrorEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconError#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABQElEQVR4XqWTvUoEQRCE6wYPZUA80AfwAQz23uCMjA7MDRQEIzPBVEyNTQUFIw00vcQTTMzuAh/AxEQQT8HF/3G/oGGnEUGuoNnd6qoZuqltyKEsyzVJq5I6rnUp6SjGeGhESikzzlc1eL7opfuVbrqbU1Zw9NCgtQMaZpY0eNnaaL2fHusvTK5vKu7sjSS1Y4y3QUA6K3e3Mau5UFDyMP7tYF9o8cAHZv68vipoIJg971PZIZ5HiwdvYGGvFVFHmGmZ2MxwmQYPXubPl9Up0tfoMQGetXd6mRbvhBw+boZ6WF7Mbv1+GsHRk0fQmPAH1GfmZirbCfDJ61tw3Px8/8pZsPAG4jlVhcPgZ7adwNWBB68lkRQWFiTgFlbnLY3DGGM7izIJIyT/jjIvEJw6fdJTc6krDzh6aMwMP9bvDH4ADSsa9uSWVJkAAAAASUVORK5CYII=);
+                    }
+                 </style><script type="text/javascript" language="javascript"> 
+          
+            // Startup 
+            // Hook up the the loaded event for the document/window, to linkify the document content
+            var startupFunction = function() { linkifyElement("messages"); };
+            
+            if(window.attachEvent)
+            {
+              window.attachEvent('onload', startupFunction);
+            }
+            else if (window.addEventListener) 
+            {
+              window.addEventListener('load', startupFunction, false);
+            }
+            else 
+            {
+              document.addEventListener('load', startupFunction, false);
+            } 
+            
+            // Toggles the visibility of table rows with the specified name 
+            function toggleTableRowsByName(name)
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  if(!!currentName && currentName.indexOf(name) == 0)
+                  {
+                      var isVisible = allRows[i].style.display == ''; 
+                      isVisible ? allRows[i].style.display = 'none' : allRows[i].style.display = '';
+                  }
+               }
+            }
+            
+            function scrollToFirstVisibleRow(name) 
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  var isVisible = allRows[i].style.display == ''; 
+                  if(!!currentName && currentName.indexOf(name) == 0 && isVisible)
+                  {
+                     allRows[i].scrollIntoView(true); 
+                     return true; 
+                  }
+               }
+               
+               return false;
+            }
+            
+            // Linkifies the specified text content, replaces candidate links with html links 
+            function linkify(text)
+            {
+                 if(!text || 0 === text.length)
+                 {
+                     return text; 
+                 }
+
+                 // Find http, https and ftp links and replace them with hyper links 
+                 var urlLink = /(http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+(:[a-zA-Z0-9]*)?\/?([a-zA-Z0-9\-\._\?\,\/\\\+&%\$#\=~;\{\}])*/gi;
+                 
+                 return text.replace(urlLink, '<a href="$&">$&</a>') ;
+            }
+            
+            // Linkifies the specified element by ID
+            function linkifyElement(id)
+            {
+                var element = document.getElementById(id);
+                if(!!element)
+                {
+                  element.innerHTML = linkify(element.innerHTML); 
+                }
+            }
+            
+            function ToggleMessageVisibility(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              toggleTableRowsByName("MessageRowClass" + projectName);
+              toggleTableRowsByName('MessageRowHeaderShow' + projectName);
+              toggleTableRowsByName('MessageRowHeaderHide' + projectName); 
+            }
+            
+            function ScrollToFirstVisibleMessage(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              // First try the 'Show messages' row
+              if(!scrollToFirstVisibleRow('MessageRowHeaderShow' + projectName))
+              {
+                // Failed to find a visible row for 'Show messages', try an actual message row 
+                scrollToFirstVisibleRow('MessageRowClass' + projectName); 
+              }
+            }
+           </script></head><body><h1 _locID="ConversionReport">
+          Migration Report - BAR</h1><div id="content"><h2 _locID="OverviewTitle">Overview</h2><div id="overview"><table><tr><th></th><th _locID="ProjectTableHeader">Project</th><th _locID="PathTableHeader">Path</th><th _locID="ErrorsTableHeader">Errors</th><th _locID="WarningsTableHeader">Warnings</th><th _locID="MessagesTableHeader">Messages</th></tr><tr><td class="IconWarningEncoded" /><td><strong><a href="#Solution"><span _locID="OverviewSolutionSpan">Solution</span></a></strong></td><td>BAR.sln</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#SolutionWarning">1</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('Solution'); return false;">2</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#BAR">BAR</a></strong></td><td>BAR.vbproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('BAR'); return false;">74</a></td></tr></table></div><h2 _locID="SolutionAndProjectsTitle">Solution and projects</h2><div id="messages"><a name="Solution" /><h3 _locID="ProjectDisplayNameHeader">Solution</h3><table><tr id="SolutionHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="WarningRowClassSolution"><td class="IconWarningEncoded"><a name="SolutionWarning" /></td><td class="messageCell"><strong>BAR.sln:
+        </strong><span>Visual Studio needs to make non-functional changes to this project in order to enable the project to open in released versions of Visual Studio newer than Visual Studio 2010 SP1 without impacting project behavior.</span></td></tr><tr name="MessageRowHeaderShowSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Show 2 additional messages
+        </a></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>BAR.sln:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\BAR.sln</span></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>BAR.sln:
+        </strong><span>Solution migrated successfully</span></td></tr><tr style="display: none" name="MessageRowHeaderHideSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Hide 2 additional messages
+        </a></td></tr></table><a name="BAR" /><h3>BAR</h3><table><tr id="BARHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="MessageRowHeaderShowBAR"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="BARMessage" onclick="ToggleMessageVisibility('BAR'); return false;">
+          Show 74 additional messages
+        </a></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>BAR.vbproj:
+        </strong><span>Project file successfully backed up as C:\adoprog2\BAR - vs2022\Backup\BAR.vbproj</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>BAR.vbproj.user:
+        </strong><span>Project user file successfully backed up as C:\adoprog2\BAR - vs2022\Backup\BAR.vbproj.user</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>AboutBox1.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\AboutBox1.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>AboutBox1.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\AboutBox1.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>ADDITPARAGG.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\ADDITPARAGG.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>ADDITPARAGG.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\ADDITPARAGG.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Class2.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Class2.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Dialog1.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Dialog1.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Dialog1.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Dialog1.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>BARDIAPRINT.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\BARDIAPRINT.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>BARDIAPRINT.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\BARDIAPRINT.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Dialog2.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Dialog2.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Dialog2.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Dialog2.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form7.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form7.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form7.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form7.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>MDIParent1.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\MDIParent1.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>MDIParent1.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\MDIParent1.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>myPrinter.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\myPrinter.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>DialogBoxForm.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\DialogBoxForm.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>DialogBoxForm.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\DialogBoxForm.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form1.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form1.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form1.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form1.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form4.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form4.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form4.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form4.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form5.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form5.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form5.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form5.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>arxeiaFile.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\arxeiaFile.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>arxeiaFile.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\arxeiaFile.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>arxeia0.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\arxeia0.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>arxeia0.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\arxeia0.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>BARDIA.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\BARDIA.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>BARDIA.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\BARDIA.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>MESSAGEBOXADD.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\MESSAGEBOXADD.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>TabControlEx.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\TabControlEx.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>tables.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\tables.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>tables.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\tables.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Module1.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Module1.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>My Project\AssemblyInfo.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\My Project\AssemblyInfo.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>My Project\Application.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\My Project\Application.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>My Project\Resources.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\My Project\Resources.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>My Project\Settings.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\My Project\Settings.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>paragkentr.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\paragkentr.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>paragkentr.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\paragkentr.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>TRAPEZIAANASERVITORO.Designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\TRAPEZIAANASERVITORO.Designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>TRAPEZIAANASERVITORO.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\TRAPEZIAANASERVITORO.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>utilities.designer.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\utilities.designer.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>utilities.vb:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\utilities.vb</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>app.config:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\app.config</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>BASEIS-SXESEIS.xlsx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\BASEIS-SXESEIS.xlsx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>My Project\Application.myapp:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\My Project\Application.myapp</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>My Project\Settings.settings:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\My Project\Settings.settings</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>TABLET_TemporaryKey.pfx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\TABLET_TemporaryKey.pfx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>README.txt:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\README.txt</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Vista_icons_07.ico:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Vista_icons_07.ico</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>AboutBox1.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\AboutBox1.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>ADDITPARAGG.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\ADDITPARAGG.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Dialog1.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Dialog1.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>DialogBoxForm.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\DialogBoxForm.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form1.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form1.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form4.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form4.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form5.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form5.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>arxeiaFile.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\arxeiaFile.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>arxeia0.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\arxeia0.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>BARDIA.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\BARDIA.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>BARDIAPRINT.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\BARDIAPRINT.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>Form7.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\Form7.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>MDIParent1.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\MDIParent1.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>My Project\Resources.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\My Project\Resources.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>paragkentr.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\paragkentr.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>tables.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\tables.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>TRAPEZIAANASERVITORO.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\TRAPEZIAANASERVITORO.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>utilities.resx:
+        </strong><span>File successfully backed up as C:\adoprog2\BAR - vs2022\Backup\utilities.resx</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>BAR.vbproj:
+        </strong><span>Project migrated successfully</span></td></tr><tr name="MessageRowClassBAR" style="display: none"><td class="IconInfoEncoded"><a name="BARMessage" /></td><td class="messageCell"><strong>BAR.vbproj:
+        </strong><span>Scan complete: Migration not required for project files.</span></td></tr><tr style="display: none" name="MessageRowHeaderHideBAR"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="BARMessage" onclick="ToggleMessageVisibility('BAR'); return false;">
+          Hide 74 additional messages
+        </a></td></tr></table></div></div></body></html>

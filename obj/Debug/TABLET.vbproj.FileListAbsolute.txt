@@ -1,0 +1,302 @@
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+C:\NET SAMPLE\Visual Basic 2008\WindowsApplication1\WindowsApplication1\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+G:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+F:\ADOprog2\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+C:\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+C:\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+C:\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+C:\TABLET\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+C:\TABLET\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+C:\TABLET\WindowsApplication1\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+C:\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+C:\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+C:\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+C:\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+C:\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+C:\TABLET\WindowsApplication1\WindowsApplication1\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+C:\TABLET\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+C:\TABLET\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+C:\TABLET\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+C:\TABLET\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+C:\TABLET\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+C:\TABLET\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+C:\TABLET\tablet\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\TABLET\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+C:\TABLET\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+C:\TABLET\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+C:\TABLET\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+C:\TABLET\tablet\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+C:\TABLET\tablet\WindowsApplication1\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+G:\adoprog2\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+G:\adoprog2\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+G:\adoprog2\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+G:\adoprog2\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.exe.manifest
+G:\adoprog2\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.application
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.exe.manifest
+G:\adoprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.application
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.exe.manifest
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.application
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.exe.manifest
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.application
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+D:\adoprog2\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.exe.manifest
+D:\adoprog2\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.application
+D:\adoprog2\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+D:\adoprog2\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+D:\adoprog2\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.exe.manifest
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.application
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+E:\adoprog2\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.exe.manifest
+E:\adoprog2\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.application
+E:\adoprog2\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+E:\adoprog2\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+E:\adoprog2\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+E:\adoprog2\TABLET\WindowsApplication1\bin\Debug\Interop.MSDAOSP.dll
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\Interop.MSDAOSP.dll
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.exe.manifest
+E:\adoprog2\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.application
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+C:\Users\User\Desktop\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.exe.manifest
+C:\Users\User\Desktop\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.application
+C:\Users\User\Desktop\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+C:\Users\User\Desktop\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+C:\Users\User\Desktop\TABLET\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+C:\Users\User\Desktop\TABLET\WindowsApplication1\bin\Debug\Interop.MSDAOSP.dll
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.exe.manifest
+C:\Users\User\Desktop\TABLET\WindowsApplication1\obj\Debug\jgiminsil_software.application
+D:\adoprog2\TABLET\WindowsApplication1\obj\Debug\Interop.MSDAOSP.dll
+D:\adoprog2\TABLET\WindowsApplication1\bin\Debug\Interop.MSDAOSP.dll
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\Interop.MSDAOSP.dll
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.exe
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.xml
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.pdb
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.exe.manifest
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.application
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.exe
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.pdb
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\bin\Debug\jgiminsil_software.xml
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\bin\Debug\Interop.MSDAOSP.dll
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form1.resources
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form2.resources
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form3.resources
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil.Form4.resources
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil.Resources.resources
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.exe.manifest
+C:\ZIP 8GB\ADOprog2\tablet\WindowsApplication1\obj\Debug\jgiminsil_software.application
+C:\zipakia\zip9gbADO\TABLET\WindowsApplication1\obj\Debug\Interop.MSDAOSP.dll
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\Interop.MSDAOSP.dll
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.exe
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.xml
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.pdb
+C:\zipakia\Adoporog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.exe.manifest
+C:\zipakia\Adoporog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.application
+C:\zipakia\Adoporog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.exe
+C:\zipakia\Adoporog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.pdb
+C:\zipakia\Adoporog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.xml
+C:\zipakia\Adoporog2\TABLET\mixailidis\bin\Debug\Interop.MSDAOSP.dll
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\ResolveAssemblyReference.cache
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form1.resources
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form2.resources
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form3.resources
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form4.resources
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil.Resources.resources
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.exe.manifest
+C:\zipakia\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.application
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\Interop.MSDAOSP.dll
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.exe
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.xml
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.pdb
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\Interop.MSDAOSP.dll
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.exe
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.xml
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.pdb
+G:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.exe.manifest
+G:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.application
+G:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.exe
+G:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.pdb
+G:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.xml
+G:\Adoprog2\TABLET\mixailidis\bin\Debug\Interop.MSDAOSP.dll
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\ResolveAssemblyReference.cache
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form1.resources
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form2.resources
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form3.resources
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form4.resources
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Resources.resources
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.exe.manifest
+G:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.application
+E:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.exe.manifest
+E:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.application
+E:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.exe
+E:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.pdb
+E:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.xml
+E:\Adoprog2\TABLET\mixailidis\bin\Debug\Interop.MSDAOSP.dll
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\ResolveAssemblyReference.cache
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form1.resources
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form3.resources
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form4.resources
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Resources.resources
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.exe.manifest
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.application
+E:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form2.resources
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\Interop.MSDAOSP.dll
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.exe
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.xml
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.pdb
+E:\Adoporog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.exe.manifest
+E:\Adoporog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.application
+E:\Adoporog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.exe
+E:\Adoporog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.pdb
+E:\Adoporog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.xml
+E:\Adoporog2\TABLET\mixailidis\bin\Debug\Interop.MSDAOSP.dll
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\ResolveAssemblyReference.cache
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form1.resources
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form2.resources
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form3.resources
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form4.resources
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil.Resources.resources
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.exe.manifest
+E:\Adoporog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.application
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\Interop.MSDAOSP.dll
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.exe
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.xml
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.pdb
+F:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.exe.manifest
+F:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.application
+F:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.exe
+F:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.pdb
+F:\Adoprog2\TABLET\mixailidis\bin\Debug\jgiminsil_software.xml
+F:\Adoprog2\TABLET\mixailidis\bin\Debug\Interop.MSDAOSP.dll
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\ResolveAssemblyReference.cache
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form1.resources
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form2.resources
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form3.resources
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Form4.resources
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil.Resources.resources
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.exe.manifest
+F:\Adoprog2\TABLET\mixailidis\obj\Debug\jgiminsil_software.application
+F:\Adoprog2\BAR\obj\Debug\Interop.MSDAOSP.dll
+F:\Adoprog2\BAR\obj\Debug\TABLET.vbproj.ResolveComReference.cache
+F:\Adoprog2\BAR\obj\Debug\jgiminsil_software.exe
+F:\Adoprog2\BAR\obj\Debug\jgiminsil_software.xml
+F:\Adoprog2\BAR\obj\Debug\jgiminsil_software.pdb
+F:\Adoprog2\BAR\bin\Debug\jgiminsil_software.exe.manifest
+F:\Adoprog2\BAR\bin\Debug\jgiminsil_software.application
+F:\Adoprog2\BAR\bin\Debug\jgiminsil_software.exe
+F:\Adoprog2\BAR\bin\Debug\jgiminsil_software.pdb
+F:\Adoprog2\BAR\bin\Debug\jgiminsil_software.xml
+F:\Adoprog2\BAR\bin\Debug\Interop.MSDAOSP.dll
+F:\Adoprog2\BAR\obj\Debug\ResolveAssemblyReference.cache
+F:\Adoprog2\BAR\obj\Debug\jgiminsil.Form1.resources
+F:\Adoprog2\BAR\obj\Debug\jgiminsil.Form2.resources
+F:\Adoprog2\BAR\obj\Debug\jgiminsil.Form3.resources
+F:\Adoprog2\BAR\obj\Debug\jgiminsil.Form4.resources
+F:\Adoprog2\BAR\obj\Debug\jgiminsil.Resources.resources
+F:\Adoprog2\BAR\obj\Debug\TABLET.vbproj.GenerateResource.Cache
+F:\Adoprog2\BAR\obj\Debug\jgiminsil_software.exe.manifest
+F:\Adoprog2\BAR\obj\Debug\jgiminsil_software.application

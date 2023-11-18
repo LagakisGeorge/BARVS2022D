@@ -1,0 +1,220 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BAR
+</name>
+</assembly>
+<members>
+<member name="P:jgiminsil.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:jgiminsil.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:jgiminsil.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.ARITMISIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.EIDHDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.KATHGDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.PARAGGDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.TABLESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.XAR1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.XAR2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.BARDIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.ERGAZDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.PARAGGMASTERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.ARITMISIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.EIDHRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.KATHGRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.PARAGGRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.TABLESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.XAR1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.XAR2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.BARDIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.ERGAZRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.PARAGGMASTERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.ARITMISIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.EIDHRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.KATHGRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.PARAGGRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.TABLESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.XAR1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.XAR2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.BARDIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.ERGAZRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet.PARAGGMASTERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.ARITMISITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.EIDHTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.KATHGTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.PARAGGTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.TABLESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.XAR1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.XAR2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.BARDIATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.ERGAZTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.PARAGGMASTERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:jgiminsil.DatabaseBarDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(jgiminsil.DatabaseBarDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:jgiminsil.DatabaseBarDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(jgiminsil.DatabaseBarDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:jgiminsil.DatabaseBarDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(jgiminsil.DatabaseBarDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:jgiminsil.DatabaseBarDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:jgiminsil.DatabaseBarDataSetTableAdapters.TableAdapterManager.UpdateAll(jgiminsil.DatabaseBarDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:jgiminsil.DatabaseBarDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
