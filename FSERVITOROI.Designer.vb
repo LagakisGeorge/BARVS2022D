@@ -92,6 +92,14 @@ Partial Class FSERVITOROI
         Me.ANBARD6 = New System.Windows.Forms.Button()
         Me.ANBARD7 = New System.Windows.Forms.Button()
         Me.ANBARD8 = New System.Windows.Forms.Button()
+        Me.R1 = New System.Windows.Forms.Label()
+        Me.R2 = New System.Windows.Forms.Label()
+        Me.R3 = New System.Windows.Forms.Label()
+        Me.R4 = New System.Windows.Forms.Label()
+        Me.R5 = New System.Windows.Forms.Label()
+        Me.R6 = New System.Windows.Forms.Label()
+        Me.R7 = New System.Windows.Forms.Label()
+        Me.R8 = New System.Windows.Forms.Label()
         Me.TableLayoutPanel1.SuspendLayout()
         Me.TableLayoutPanel2.SuspendLayout()
         Me.SuspendLayout()
@@ -222,6 +230,10 @@ Partial Class FSERVITOROI
         Me.TableLayoutPanel1.Controls.Add(Me.ANBARD2, 7, 2)
         Me.TableLayoutPanel1.Controls.Add(Me.ANBARD3, 7, 3)
         Me.TableLayoutPanel1.Controls.Add(Me.ANBARD4, 7, 4)
+        Me.TableLayoutPanel1.Controls.Add(Me.R1, 5, 1)
+        Me.TableLayoutPanel1.Controls.Add(Me.R2, 5, 2)
+        Me.TableLayoutPanel1.Controls.Add(Me.R3, 5, 3)
+        Me.TableLayoutPanel1.Controls.Add(Me.R4, 5, 4)
         Me.TableLayoutPanel1.Location = New System.Drawing.Point(12, 12)
         Me.TableLayoutPanel1.Name = "TableLayoutPanel1"
         Me.TableLayoutPanel1.RowCount = 5
@@ -364,9 +376,9 @@ Partial Class FSERVITOROI
         Me.Label12.AutoSize = True
         Me.Label12.Location = New System.Drawing.Point(638, 0)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(16, 13)
+        Me.Label12.Size = New System.Drawing.Size(64, 13)
         Me.Label12.TabIndex = 19
-        Me.Label12.Text = "..."
+        Me.Label12.Text = "PIS2/KERA"
         '
         'Label7
         '
@@ -507,6 +519,10 @@ Partial Class FSERVITOROI
         Me.TableLayoutPanel2.Controls.Add(Me.ANBARD6, 7, 2)
         Me.TableLayoutPanel2.Controls.Add(Me.ANBARD7, 7, 3)
         Me.TableLayoutPanel2.Controls.Add(Me.ANBARD8, 7, 4)
+        Me.TableLayoutPanel2.Controls.Add(Me.R5, 5, 1)
+        Me.TableLayoutPanel2.Controls.Add(Me.R6, 5, 2)
+        Me.TableLayoutPanel2.Controls.Add(Me.R7, 5, 3)
+        Me.TableLayoutPanel2.Controls.Add(Me.R8, 5, 4)
         Me.TableLayoutPanel2.Location = New System.Drawing.Point(12, 282)
         Me.TableLayoutPanel2.Name = "TableLayoutPanel2"
         Me.TableLayoutPanel2.RowCount = 5
@@ -828,6 +844,78 @@ Partial Class FSERVITOROI
         Me.ANBARD8.Text = "ΑΝΟΙΓΜΑ ΒΑΡΔΙΑΣ;                                             4"
         Me.ANBARD8.UseVisualStyleBackColor = True
         '
+        'R1
+        '
+        Me.R1.AutoSize = True
+        Me.R1.Location = New System.Drawing.Point(638, 52)
+        Me.R1.Name = "R1"
+        Me.R1.Size = New System.Drawing.Size(13, 13)
+        Me.R1.TabIndex = 34
+        Me.R1.Text = ".."
+        '
+        'R2
+        '
+        Me.R2.AutoSize = True
+        Me.R2.Location = New System.Drawing.Point(638, 104)
+        Me.R2.Name = "R2"
+        Me.R2.Size = New System.Drawing.Size(13, 13)
+        Me.R2.TabIndex = 35
+        Me.R2.Text = ".."
+        '
+        'R3
+        '
+        Me.R3.AutoSize = True
+        Me.R3.Location = New System.Drawing.Point(638, 156)
+        Me.R3.Name = "R3"
+        Me.R3.Size = New System.Drawing.Size(13, 13)
+        Me.R3.TabIndex = 36
+        Me.R3.Text = ".."
+        '
+        'R4
+        '
+        Me.R4.AutoSize = True
+        Me.R4.Location = New System.Drawing.Point(638, 208)
+        Me.R4.Name = "R4"
+        Me.R4.Size = New System.Drawing.Size(13, 13)
+        Me.R4.TabIndex = 37
+        Me.R4.Text = ".."
+        '
+        'R5
+        '
+        Me.R5.AutoSize = True
+        Me.R5.Location = New System.Drawing.Point(638, 2)
+        Me.R5.Name = "R5"
+        Me.R5.Size = New System.Drawing.Size(13, 13)
+        Me.R5.TabIndex = 34
+        Me.R5.Text = ".."
+        '
+        'R6
+        '
+        Me.R6.AutoSize = True
+        Me.R6.Location = New System.Drawing.Point(638, 48)
+        Me.R6.Name = "R6"
+        Me.R6.Size = New System.Drawing.Size(13, 13)
+        Me.R6.TabIndex = 35
+        Me.R6.Text = ".."
+        '
+        'R7
+        '
+        Me.R7.AutoSize = True
+        Me.R7.Location = New System.Drawing.Point(638, 97)
+        Me.R7.Name = "R7"
+        Me.R7.Size = New System.Drawing.Size(13, 13)
+        Me.R7.TabIndex = 36
+        Me.R7.Text = ".."
+        '
+        'R8
+        '
+        Me.R8.AutoSize = True
+        Me.R8.Location = New System.Drawing.Point(638, 146)
+        Me.R8.Name = "R8"
+        Me.R8.Size = New System.Drawing.Size(13, 13)
+        Me.R8.TabIndex = 37
+        Me.R8.Text = ".."
+        '
         'FSERVITOROI
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -915,4 +1003,12 @@ Partial Class FSERVITOROI
     Friend WithEvents ANBARD6 As Button
     Friend WithEvents ANBARD7 As Button
     Friend WithEvents ANBARD8 As Button
+    Friend WithEvents R1 As Label
+    Friend WithEvents R2 As Label
+    Friend WithEvents R3 As Label
+    Friend WithEvents R4 As Label
+    Friend WithEvents R5 As Label
+    Friend WithEvents R6 As Label
+    Friend WithEvents R7 As Label
+    Friend WithEvents R8 As Label
 End Class

@@ -1133,6 +1133,7 @@ err:
 
 
 
+        On Error Resume Next
 
 
 
@@ -1146,8 +1147,8 @@ err:
         Else
             MDATE = "'" + Format(Now, "MM/dd/yyyy") + "'"
         End If
-
-        ExecuteSQLQuery("INSERT INTO PARAGGMASTER (TRAPEZI,HME,IDBARDIA,CH1) VALUES ('" + p_Trapezi + "'," + MDATE + "," + Str(gBardia) + ",'" + Format(Now(), "hh:mm") + "' )", DT)
+        'gIDERGAZ
+        ExecuteSQLQuery("INSERT INTO PARAGGMASTER (IDERGAZ,TRAPEZI,HME,IDBARDIA,CH1) VALUES (" + gIDERGAZ + ",'" + p_Trapezi + "'," + MDATE + "," + Str(gBardia) + ",'" + Format(Now(), "hh:mm") + "' )", DT)
         'ExecuteSQLQuery("UPDATE PARAGGMASTER SET CH2='" + Format(Now(), "hh:mm") + "',AJIA=" + SS + ",TROPOS=" + F.LoginName + " WHERE ID=" + p_IDPARAGG, DT)
 
         ExecuteSQLQuery("SELECT MAX(ID) FROM PARAGGMASTER", DT)

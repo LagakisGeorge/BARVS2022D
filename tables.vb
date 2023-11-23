@@ -89,7 +89,7 @@
         listview1.Bounds = New Rectangle(New Point(22, 12), New Size(781, 531))
         listview1.Bounds = ListView2.Bounds
 
-        listView1.Items.Clear()
+        listview1.Items.Clear()
 
         'CreateMyListView()
         'AddHandler listView1.Click, AddressOf listView1_Click
@@ -98,7 +98,7 @@
         'listView1.Bounds = New Rectangle(New Point(10, 10), New Size(420, 400))
 
         ' Set the view to show details.
-        With listView1
+        With listview1
             ' Set ListView view mode to show Large Icons
             .View = View.LargeIcon
             .Cursor = Cursors.Hand
@@ -119,15 +119,16 @@
         'listView1.Items.AddRange(New ListViewItem() {item1, item2, item3, item4, item5, item6, item7})
         ' / --------------------------------------------------------------------------------
 
-        listView1.Columns.Add("Column 1", -2, HorizontalAlignment.Left)
-        listView1.Columns.Add("Column 2", -2, HorizontalAlignment.Left)
+        listview1.Columns.Add("Column 1", -2, HorizontalAlignment.Left)
+        listview1.Columns.Add("Column 2", -2, HorizontalAlignment.Left)
         ' / --------------------------------------------------------------------------------
         ' / @Run Time
-
+        Dim CWHERE As String = ""
+        '  CWHERE= WHERE NUM1=" + Str(gIDERGAZ) + "
 
 
         Dim DTT As New DataTable
-        ExecuteSQLQuery("select ONO, ID,isnull(KATEILHMENO,0) as KATEILHMENO ,isnull(SYNOLO,0) as SYNOLO,ISNULL(IDPARAGG,0) AS IDPARAGG ,(SELECT SUM(POSO*TIMH) FROM PARAGG WHERE IDPARAGG=TABLES.IDPARAGG) as TREX FROM TABLES WHERE NUM1=" + Str(gUser) + " ORDER BY ONO", DTT)
+        ExecuteSQLQuery("select ONO, ID,isnull(KATEILHMENO,0) as KATEILHMENO ,isnull(SYNOLO,0) as SYNOLO,ISNULL(IDPARAGG,0) AS IDPARAGG ,(SELECT SUM(POSO*TIMH) FROM PARAGG WHERE IDPARAGG=TABLES.IDPARAGG) as TREX FROM TABLES " + CWHERE + " ORDER BY ONO", DTT)
 
 
         ' ExecuteSQLQuery("SELECT ONO,POSO,TIMH,POSO*TIMH AS AJ FROM PARAGG WHERE IDPARAGG=" + Str(p_IDPARAGG), DT)
@@ -151,7 +152,7 @@
             Dim item As New ListViewItem(DTT(i)("ONO").ToString + TREX_LOGAR, N1) ' RancomClass.Next(0, 10) Mod 2)
             Items.Add(item)
         Next
-        listView1.Items.AddRange(Items.ToArray)
+        listview1.Items.AddRange(Items.ToArray)
 
         ' Create ImageList objects.
         Dim imgList As New ImageList()
@@ -164,12 +165,12 @@
         imgList.Images.Add(Bitmap.FromFile(strPath & "png\table-icon-red.png"))
 
         'Assign the ImageList objects to the ListView.
-        listView1.LargeImageList = imgList
+        listview1.LargeImageList = imgList
 
         ' Add the ListView to the control collection.
-        Me.Controls.Add(listView1)
+        Me.Controls.Add(listview1)
         '// start event handling at any time during program execution.
-        AddHandler listView1.Click, AddressOf listView1_Click
+        AddHandler listview1.Click, AddressOf listView1_Click
 
     End Sub 'CreateMyListView
 

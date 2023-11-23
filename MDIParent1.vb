@@ -1,4 +1,5 @@
 ﻿Imports System.Windows.Forms
+Imports Dotnetrix.Controls
 Imports Microsoft.VisualBasic.PowerPacks.Printing.Compatibility.VB6
 
 Public Class MDIParent1
@@ -145,11 +146,11 @@ Public Class MDIParent1
         'gPrinter2 = DT.Rows(0)("PR02").ToString()
         'gPrinter3 = DT.Rows(0)("PR03").ToString()
 
-
+        Dim tab1 As New TabControlEx
 
         paragkentr.Show()
-       
-        
+
+
 
 
     End Sub
@@ -221,15 +222,15 @@ Public Class MDIParent1
         SQL = "insert into PARAGG (TRAPEZI , IDPARAGG , POSO , TIMH , ONO , PROSUETA , CH1 , NUM1 , NUM2 , ENERGOS , PRINTER,PDA ) "
         SQL = SQL + " SELECT   TRAPEZI , " + mIDPARAGG + " , POSO , TIMH , ONO , PROSUETA , CH1SXOLIA , NUM1PLIROMENO , NUM2 , ENERGOSTYPOMENO , PRINTER ,PDA "
         SQL = SQL + " FROM  PARAGGPDA  WHERE ISNULL(ENERGOSTYPOMENO,0)=0  AND TRAPEZI='" + TR + "'"
-            ExecuteSQLQuery(SQL, dt5)
+        ExecuteSQLQuery(SQL, dt5)
 
 
 
-            ExecuteSQLQuery("UPDATE PARAGGPDA SET IDPARAGG=" + mIDPARAGG + "    WHERE ISNULL(ENERGOSTYPOMENO,0)=0 AND TRAPEZI='" + TR + "'", dt5)
-            PRINTPARAGG(mIDPARAGG)
+        ExecuteSQLQuery("UPDATE PARAGGPDA SET IDPARAGG=" + mIDPARAGG + "    WHERE ISNULL(ENERGOSTYPOMENO,0)=0 AND TRAPEZI='" + TR + "'", dt5)
+        PRINTPARAGG(mIDPARAGG)
 
-            'ΤΟ ΙΔΙΟ ΤΡΑΠΕΖΙ ΤΟ ΣΗΜΕΙΩΝΩ ENERGOSTYPOMENO=1
-            ExecuteSQLQuery("UPDATE PARAGGPDA SET ENERGOSTYPOMENO=1    WHERE ISNULL(ENERGOSTYPOMENO,0)=0 AND TRAPEZI='" + TR + "'", dt5)
+        'ΤΟ ΙΔΙΟ ΤΡΑΠΕΖΙ ΤΟ ΣΗΜΕΙΩΝΩ ENERGOSTYPOMENO=1
+        ExecuteSQLQuery("UPDATE PARAGGPDA SET ENERGOSTYPOMENO=1    WHERE ISNULL(ENERGOSTYPOMENO,0)=0 AND TRAPEZI='" + TR + "'", dt5)
 
         ' Next
 
@@ -357,8 +358,25 @@ Public Class MDIParent1
         'F.Show()
         'F = Nothing
 
+        Dim c As String = InputBox("Αριθμός Σερβιτόρου")
+        Dim pw As String = InputBox("Κωδικός του " + c)
+        Dim dt2 As New DataTable
+        ExecuteSQLQuery("select * from LOGGING WHERE ID=" + c + " AND QUERY='" + pw + "'", dt2)
+        If dt2.Rows.Count = 0 Then
+            MsgBox(" λαθος κωδικός")
+            Exit Sub
+        End If
+        gIDERGAZ = c
+        Dim DT3 As New DataTable
 
+        ExecuteSQLQuery("SELECT ID FROM BARDIA WHERE ISOPEN=1 AND IDERGAZ= " + c, DT3)
+        If DT3.Rows.Count = 0 Then
+            MsgBox("ΑΝΟΙΞΤΕ ΒΑΡΔΙΑ")
+            Exit Sub
+        Else
+            gBardia = DT3(0)(0).ToString
 
+        End If
 
         Dim per = "Τραπέζια"
         Dim kod = "00"
@@ -394,7 +412,7 @@ Public Class MDIParent1
     End Sub
 
     Private Sub Button6_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button6.Click
-        
+
         Dim isnea As Integer
         isnea = 0
 
@@ -442,7 +460,7 @@ Public Class MDIParent1
             Dim CASHTOT As Single = 0
             MsgBox("Μετρ: " + DT(0)("CASH").ToString + Chr(13) + "Πιστ: " + DT(0)("pis1").ToString + Chr(13) + "Εκπτ: " + DT(0)("PIS2").ToString + Chr(13) + "Κερασμ: " + DT(0)("KERA").ToString)
 
-           
+
 
             Dim dt1 As New DataTable
             ExecuteSQLQuery("select count(*) FROM PARAGGMASTER WHERE IDBARDIA=" + MBARDIA + "  AND TROPOS IS NULL ", dt1)
@@ -545,7 +563,7 @@ Public Class MDIParent1
 
 
 
-           ' BARDIAOLDPRINT.MdiParent = Me
+            ' BARDIAOLDPRINT.MdiParent = Me
 
             ' BARDIAOLDPRINT.Show()
         End If

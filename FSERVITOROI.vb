@@ -9,6 +9,9 @@ Public Class FSERVITOROI
         ExecuteSQLQuery("select * from BARDIA WHERE ISOPEN=1 AND IDERGAZ<=8", dt)
         On Error Resume Next
         Dim k, n As Integer, c As String
+
+
+        'LOOP STIS ANOIXTES BARDIES
         For k = 0 To dt.Rows.Count - 1
             n = k + 1 : c = LTrim(dt.Rows(k)("IDERGAZ").ToString)
 
@@ -37,6 +40,9 @@ Public Class FSERVITOROI
 
             Dim ObjM As Object = Me.Controls.Find("M" + c, True).FirstOrDefault()
             ObjM.text = dt2.Rows(0)("METR").ToString
+
+            Dim ObjR As Object = Me.Controls.Find("R" + c, True).FirstOrDefault()
+            ObjR.text = dt2.Rows(0)("PIS2").ToString + "/" + dt2.Rows(0)("KERA").ToString
 
             ' CType(Me.Controls.Find("Button" + c, False)(0), Button).BackColor = Color.Green
 
@@ -201,6 +207,64 @@ Public Class FSERVITOROI
     End Sub
 
     Private Sub TableLayoutPanel2_Paint(sender As Object, e As PaintEventArgs) Handles TableLayoutPanel2.Paint
+
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        If InStr(kl1.Text, ";") > 0 Then
+            paragkentr.TYPONO_BARDIA(LTrim(kl1.Text.Split(";")(1)))
+        End If
+
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        If InStr(kl1.Text, ";") > 0 Then
+            paragkentr.TYPONO_BARDIA(LTrim(kl2.Text.Split(";")(2)))
+        End If
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        If InStr(kl1.Text, ";") > 0 Then
+            paragkentr.TYPONO_BARDIA(LTrim(kl3.Text.Split(";")(3)))
+        End If
+
+    End Sub
+
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        If InStr(kl1.Text, ";") > 0 Then
+            paragkentr.TYPONO_BARDIA(LTrim(kl4.Text.Split(";")(4)))
+        End If
+
+    End Sub
+
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
+        If InStr(kl1.Text, ";") > 0 Then
+            paragkentr.TYPONO_BARDIA(LTrim(kl5.Text.Split(";")(5)))
+        End If
+
+    End Sub
+
+    Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
+        If InStr(kl1.Text, ";") > 0 Then
+            paragkentr.TYPONO_BARDIA(LTrim(kl6.Text.Split(";")(6)))
+        End If
+    End Sub
+
+    Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
+        If InStr(kl1.Text, ";") > 0 Then
+            paragkentr.TYPONO_BARDIA(LTrim(kl7.Text.Split(";")(7)))
+        End If
+
+    End Sub
+
+    Private Sub Button8_Click(sender As Object, e As EventArgs) Handles Button8.Click
+        If InStr(kl1.Text, ";") > 0 Then
+            paragkentr.TYPONO_BARDIA(LTrim(kl8.Text.Split(";")(8)))
+        End If
+
+    End Sub
+
+    Private Sub R1_Click(sender As Object, e As EventArgs) Handles R1.Click
 
     End Sub
 End Class

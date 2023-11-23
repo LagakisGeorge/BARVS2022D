@@ -72,19 +72,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>jQqJXWRMKQ0f91z2jwIiM/Os2XI=</dsig:DigestValue>
+        <dsig:DigestValue>W4Dlv0k8eIFdabs8PMhO12KDEoE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BAR.exe" size="2373016">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BAR.exe" size="2379160">
       <assemblyIdentity name="BAR" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>9WdThAVaoPTGwwHVsbDaDVFiK4o=</dsig:DigestValue>
+        <dsig:DigestValue>gK/hnMT3Y1xH4WEsNdycih2vc2M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -108,7 +108,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>bEsOTC3oLtqy763t3s28Pud5t20=</dsig:DigestValue>
+        <dsig:DigestValue>nH7ymCwhEwrzlOvootk6TXqYxZA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.SubclassingSink.dll" size="6656">
+      <assemblyIdentity name="Interop.SubclassingSink" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>1UbLM3QHGLXnLUgRyLrrugaFTX0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -136,22 +148,22 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="BAR.exe.config" size="1655">
+  <file name="BAR.exe.config" size="1623">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>S67A5cXqIJdWfV2TKp7Zdy9hEJY=</dsig:DigestValue>
+      <dsig:DigestValue>tBfo24pEvg3fSvVmurCP5g5jBFI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="README.txt" size="1409">
+  <file name="README.txt" size="1338">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Jh0Im7ptOlTjamqF67YIcQUCRPk=</dsig:DigestValue>
+      <dsig:DigestValue>Cj1qKnf/IGABNlXkjx7WAOEAq/s=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Vista_icons_07.ico" size="744934">

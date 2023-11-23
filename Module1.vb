@@ -21,6 +21,8 @@ Module Module1
     Public gBaran As Integer
     Public gSEIRA As String
     Public GeRGAZ As String
+    Public gIDERGAZ As String
+
     Public gPass As String = "12345678"
 
     Public gBardia As Long
