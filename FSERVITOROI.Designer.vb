@@ -57,6 +57,10 @@ Partial Class FSERVITOROI
         Me.ANBARD2 = New System.Windows.Forms.Button()
         Me.ANBARD3 = New System.Windows.Forms.Button()
         Me.ANBARD4 = New System.Windows.Forms.Button()
+        Me.R1 = New System.Windows.Forms.Label()
+        Me.R2 = New System.Windows.Forms.Label()
+        Me.R3 = New System.Windows.Forms.Label()
+        Me.R4 = New System.Windows.Forms.Label()
         Me.TableLayoutPanel2 = New System.Windows.Forms.TableLayoutPanel()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Button5 = New System.Windows.Forms.Button()
@@ -92,14 +96,11 @@ Partial Class FSERVITOROI
         Me.ANBARD6 = New System.Windows.Forms.Button()
         Me.ANBARD7 = New System.Windows.Forms.Button()
         Me.ANBARD8 = New System.Windows.Forms.Button()
-        Me.R1 = New System.Windows.Forms.Label()
-        Me.R2 = New System.Windows.Forms.Label()
-        Me.R3 = New System.Windows.Forms.Label()
-        Me.R4 = New System.Windows.Forms.Label()
         Me.R5 = New System.Windows.Forms.Label()
         Me.R6 = New System.Windows.Forms.Label()
         Me.R7 = New System.Windows.Forms.Label()
         Me.R8 = New System.Windows.Forms.Label()
+        Me.refresh = New System.Windows.Forms.Button()
         Me.TableLayoutPanel1.SuspendLayout()
         Me.TableLayoutPanel2.SuspendLayout()
         Me.SuspendLayout()
@@ -234,6 +235,7 @@ Partial Class FSERVITOROI
         Me.TableLayoutPanel1.Controls.Add(Me.R2, 5, 2)
         Me.TableLayoutPanel1.Controls.Add(Me.R3, 5, 3)
         Me.TableLayoutPanel1.Controls.Add(Me.R4, 5, 4)
+        Me.TableLayoutPanel1.Controls.Add(Me.refresh, 0, 0)
         Me.TableLayoutPanel1.Location = New System.Drawing.Point(12, 12)
         Me.TableLayoutPanel1.Name = "TableLayoutPanel1"
         Me.TableLayoutPanel1.RowCount = 5
@@ -473,6 +475,42 @@ Partial Class FSERVITOROI
         Me.ANBARD4.TabIndex = 33
         Me.ANBARD4.Text = "ΑΝΟΙΓΜΑ ΒΑΡΔΙΑΣ;                                             4"
         Me.ANBARD4.UseVisualStyleBackColor = True
+        '
+        'R1
+        '
+        Me.R1.AutoSize = True
+        Me.R1.Location = New System.Drawing.Point(638, 52)
+        Me.R1.Name = "R1"
+        Me.R1.Size = New System.Drawing.Size(13, 13)
+        Me.R1.TabIndex = 34
+        Me.R1.Text = ".."
+        '
+        'R2
+        '
+        Me.R2.AutoSize = True
+        Me.R2.Location = New System.Drawing.Point(638, 104)
+        Me.R2.Name = "R2"
+        Me.R2.Size = New System.Drawing.Size(13, 13)
+        Me.R2.TabIndex = 35
+        Me.R2.Text = ".."
+        '
+        'R3
+        '
+        Me.R3.AutoSize = True
+        Me.R3.Location = New System.Drawing.Point(638, 156)
+        Me.R3.Name = "R3"
+        Me.R3.Size = New System.Drawing.Size(13, 13)
+        Me.R3.TabIndex = 36
+        Me.R3.Text = ".."
+        '
+        'R4
+        '
+        Me.R4.AutoSize = True
+        Me.R4.Location = New System.Drawing.Point(638, 208)
+        Me.R4.Name = "R4"
+        Me.R4.Size = New System.Drawing.Size(13, 13)
+        Me.R4.TabIndex = 37
+        Me.R4.Text = ".."
         '
         'TableLayoutPanel2
         '
@@ -844,42 +882,6 @@ Partial Class FSERVITOROI
         Me.ANBARD8.Text = "ΑΝΟΙΓΜΑ ΒΑΡΔΙΑΣ;                                             4"
         Me.ANBARD8.UseVisualStyleBackColor = True
         '
-        'R1
-        '
-        Me.R1.AutoSize = True
-        Me.R1.Location = New System.Drawing.Point(638, 52)
-        Me.R1.Name = "R1"
-        Me.R1.Size = New System.Drawing.Size(13, 13)
-        Me.R1.TabIndex = 34
-        Me.R1.Text = ".."
-        '
-        'R2
-        '
-        Me.R2.AutoSize = True
-        Me.R2.Location = New System.Drawing.Point(638, 104)
-        Me.R2.Name = "R2"
-        Me.R2.Size = New System.Drawing.Size(13, 13)
-        Me.R2.TabIndex = 35
-        Me.R2.Text = ".."
-        '
-        'R3
-        '
-        Me.R3.AutoSize = True
-        Me.R3.Location = New System.Drawing.Point(638, 156)
-        Me.R3.Name = "R3"
-        Me.R3.Size = New System.Drawing.Size(13, 13)
-        Me.R3.TabIndex = 36
-        Me.R3.Text = ".."
-        '
-        'R4
-        '
-        Me.R4.AutoSize = True
-        Me.R4.Location = New System.Drawing.Point(638, 208)
-        Me.R4.Name = "R4"
-        Me.R4.Size = New System.Drawing.Size(13, 13)
-        Me.R4.TabIndex = 37
-        Me.R4.Text = ".."
-        '
         'R5
         '
         Me.R5.AutoSize = True
@@ -915,6 +917,15 @@ Partial Class FSERVITOROI
         Me.R8.Size = New System.Drawing.Size(13, 13)
         Me.R8.TabIndex = 37
         Me.R8.Text = ".."
+        '
+        'refresh
+        '
+        Me.refresh.Location = New System.Drawing.Point(3, 3)
+        Me.refresh.Name = "refresh"
+        Me.refresh.Size = New System.Drawing.Size(75, 23)
+        Me.refresh.TabIndex = 38
+        Me.refresh.Text = "Ανανέωση"
+        Me.refresh.UseVisualStyleBackColor = True
         '
         'FSERVITOROI
         '
@@ -1011,4 +1022,5 @@ Partial Class FSERVITOROI
     Friend WithEvents R6 As Label
     Friend WithEvents R7 As Label
     Friend WithEvents R8 As Label
+    Friend WithEvents refresh As Button
 End Class

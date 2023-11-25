@@ -22,11 +22,11 @@ Partial Class BARDIAOLDPRINT
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.ListBox1 = New System.Windows.Forms.ListBox
-        Me.ListBox2 = New System.Windows.Forms.ListBox
-        Me.CheckBox1 = New System.Windows.Forms.CheckBox
-        Me.ListBox3 = New System.Windows.Forms.ListBox
-        Me.Label1 = New System.Windows.Forms.Label
+        Me.ListBox1 = New System.Windows.Forms.ListBox()
+        Me.ListBox2 = New System.Windows.Forms.ListBox()
+        Me.CheckBox1 = New System.Windows.Forms.CheckBox()
+        Me.ListBox3 = New System.Windows.Forms.ListBox()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'ListBox1
@@ -34,9 +34,9 @@ Partial Class BARDIAOLDPRINT
         Me.ListBox1.Font = New System.Drawing.Font("Courier New", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.ListBox1.FormattingEnabled = True
         Me.ListBox1.ItemHeight = 16
-        Me.ListBox1.Location = New System.Drawing.Point(12, 95)
+        Me.ListBox1.Location = New System.Drawing.Point(0, 95)
         Me.ListBox1.Name = "ListBox1"
-        Me.ListBox1.Size = New System.Drawing.Size(425, 388)
+        Me.ListBox1.Size = New System.Drawing.Size(317, 388)
         Me.ListBox1.TabIndex = 0
         '
         'ListBox2
@@ -44,9 +44,9 @@ Partial Class BARDIAOLDPRINT
         Me.ListBox2.Font = New System.Drawing.Font("Courier New", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.ListBox2.FormattingEnabled = True
         Me.ListBox2.ItemHeight = 16
-        Me.ListBox2.Location = New System.Drawing.Point(443, 93)
+        Me.ListBox2.Location = New System.Drawing.Point(323, 95)
         Me.ListBox2.Name = "ListBox2"
-        Me.ListBox2.Size = New System.Drawing.Size(400, 388)
+        Me.ListBox2.Size = New System.Drawing.Size(369, 388)
         Me.ListBox2.TabIndex = 1
         '
         'CheckBox1
@@ -66,7 +66,7 @@ Partial Class BARDIAOLDPRINT
         Me.ListBox3.Font = New System.Drawing.Font("Courier New", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(161, Byte))
         Me.ListBox3.FormattingEnabled = True
         Me.ListBox3.ItemHeight = 16
-        Me.ListBox3.Location = New System.Drawing.Point(849, 93)
+        Me.ListBox3.Location = New System.Drawing.Point(698, 95)
         Me.ListBox3.Name = "ListBox3"
         Me.ListBox3.Size = New System.Drawing.Size(498, 388)
         Me.ListBox3.TabIndex = 3
@@ -84,7 +84,7 @@ Partial Class BARDIAOLDPRINT
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1359, 589)
+        Me.ClientSize = New System.Drawing.Size(1451, 589)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.ListBox3)
         Me.Controls.Add(Me.CheckBox1)

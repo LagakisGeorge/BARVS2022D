@@ -4,6 +4,9 @@ Imports System.Windows.Forms.VisualStyles.VisualStyleElement
 Public Class FSERVITOROI
     Private Sub FSERVITOROI_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'CType(Me.Controls.Find(NameToFind, False)(0), TextBox).Text = "Hello"
+        loadtrapezia()
+    End Sub
+    Sub loadtrapezia()
 
         Dim dt As New DataTable
         ExecuteSQLQuery("select * from BARDIA WHERE ISOPEN=1 AND IDERGAZ<=8", dt)
@@ -266,5 +269,9 @@ Public Class FSERVITOROI
 
     Private Sub R1_Click(sender As Object, e As EventArgs) Handles R1.Click
 
+    End Sub
+
+    Private Sub refresh_click(sender As Object, e As EventArgs) Handles refresh.Click
+        loadtrapezia()
     End Sub
 End Class

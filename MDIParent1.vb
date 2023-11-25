@@ -21,29 +21,9 @@ Public Class MDIParent1
 
         Dim CCC As String = InputBox("ΔΩΣΕ KΩΔΙΚΟ ΔΙΕΥΘΥΝΤΗ ")
         If CCC = G_ADMIN_PW Then
-
-            Dim U As String
-            U = InputBox("ΔΩΣΕ ΑΡΙΘΜΟ ΧΡΗΣΤΗ", "")
+            param.ShowDialog()
 
 
-
-
-
-            Dim dt As New DataTable
-            Dim PW, pw2 As String
-            PW = InputBox("ΔΩΣΕ ΝΕΟ ΚΩΔΙΚΟ", "")
-            pw2 = InputBox("ΕΠΑΝΑΛΑΒΕΤΕ ΤΟΝ ΝΕΟ ΚΩΔΙΚΟ", "")
-
-
-            If PW = pw2 Then
-                ExecuteSQLQuery("UPDATE LOGGING SET QUERY='" + PW + "' WHERE ID=" + U, dt)
-                If U = "24" Then
-                    G_ADMIN_PW = PW
-                End If
-                MsgBox("OK")
-            Else
-                MsgBox("ΛΑΘΟΣ ΕΠΑΝΑΛΗΨΗ.Ο Κωδικός δεν άλλαξε")
-            End If
         End If
 
 
@@ -412,6 +392,11 @@ Public Class MDIParent1
     End Sub
 
     Private Sub Button6_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button6.Click
+
+
+
+        Exit Sub
+
 
         Dim isnea As Integer
         isnea = 0

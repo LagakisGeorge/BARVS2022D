@@ -224,7 +224,7 @@ Partial Class MDIParent1
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(166, 27)
         Me.Button6.TabIndex = 38
-        Me.Button6.Text = "Βάρδια"
+        Me.Button6.Text = "....."
         Me.Button6.UseVisualStyleBackColor = False
         '
         'Button4
@@ -468,7 +468,7 @@ Partial Class MDIParent1
         Me.TabPage3.Location = New System.Drawing.Point(4, 22)
         Me.TabPage3.Name = "TabPage3"
         Me.TabPage3.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage3.Size = New System.Drawing.Size(192, 74)
+        Me.TabPage3.Size = New System.Drawing.Size(1052, 697)
         Me.TabPage3.TabIndex = 1
         Me.TabPage3.Text = "TabPage3"
         Me.TabPage3.UseVisualStyleBackColor = True

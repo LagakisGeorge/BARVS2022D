@@ -474,6 +474,9 @@ err:
     End Sub
 
     Public Sub TYPONO_BARDIA(ByVal Bardia)
+        On Error Resume Next
+
+
         Dim DT2 As New DataTable
         ExecuteSQLQuery("select *,(SELECT EPO FROM ERGAZ WHERE ID=BARDIA.IDERGAZ) AS ONOMA FROM BARDIA WHERE ID=" + Str(Bardia), DT2)
         GeRGAZ = DT2(0)("ONOMA").ToString

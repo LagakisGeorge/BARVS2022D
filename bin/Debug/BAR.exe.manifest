@@ -77,14 +77,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BAR.exe" size="2379160">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BAR.exe" size="2385816">
       <assemblyIdentity name="BAR" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>gK/hnMT3Y1xH4WEsNdycih2vc2M=</dsig:DigestValue>
+        <dsig:DigestValue>5JOcXpXCEP1uxqQ55AesDE51wxg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
