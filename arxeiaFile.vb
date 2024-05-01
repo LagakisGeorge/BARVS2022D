@@ -54,6 +54,8 @@
             fid = lv.SelectedItems(0).SubItems(1).Text()
         End If
 
+
+
         If nea.Enabled = False Then 'fid = 0 Then  ' NEA EGGRAFH
             Dim dtt As New DataTable
             If p_Table = "KATHG" Then
@@ -366,6 +368,11 @@
                 Else
                     tPicture.Text = DTT(0)("PICTURE").ToString
                 End If
+                Try
+                    PictureBox1.ImageLocation = tPicture.Text
+                Catch ex As Exception
+
+                End Try
 
 
 
@@ -868,7 +875,7 @@
 
     End Sub
 
-    Private Sub ono_GotFocus(ByVal sender As Object, ByVal e As System.EventArgs) Handles ono.GotFocus
+    Private Sub ono_GotFocus(ByVal sender As Object, ByVal e As System.EventArgs)
         '------------------------
         Try
             Process.Start("C:\DEBUG\tabtip.EXE")
@@ -878,7 +885,7 @@
 
     End Sub
 
-    Private Sub ono_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ono.TextChanged
+    Private Sub ono_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs)
 
     End Sub
 
